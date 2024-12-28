@@ -1,5 +1,6 @@
 {
-"Workplace": {
+"Workplace":[
+ {
   "No": 1,
   "Employee ID": 1167006,
   "Starting day": "11\/20\/2567",
@@ -2285,4 +2286,5 @@
   "Taxpayer number": "-",
   "note": "-"
  }
+]
 }
