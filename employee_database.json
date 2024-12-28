@@ -1,10 +1,6 @@
 {
-  "provider": "https://www.exchangerate-api.com",
-  "WARNING_UPGRADE_TO_V6": "https://www.exchangerate-api.com/docs/free",
-  "terms": "https://www.exchangerate-api.com/terms",
-  "base": "USD",
-  "date": "2024-12-28",
-  "time_last_updated": 1735344002,
+"Workplace":
+ {
   "No": 1,
   "Employee ID": 1167006,
   "Starting day": "11\/20\/2567",
